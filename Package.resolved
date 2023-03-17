@@ -30,10 +30,10 @@
     {
       "identity" : "solana.swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/metaplex-foundation/Solana.Swift.git",
+      "location" : "https://github.com/VaultLaboratories/Solana.Swift.git",
       "state" : {
-        "branch" : "2.0.2",
-        "revision" : "f7bd54eee1ccf31f717b1a98b64b9ae12413e66d"
+        "branch" : "master",
+        "revision" : "617d600d979a598b48a22f72a690e1534e401f28"
       }
     },
     {
@@ -42,7 +42,7 @@
       "location" : "https://github.com/VaultLaboratories/solita-swift.git",
       "state" : {
         "branch" : "main",
-        "revision" : "05429e918ea4a71346c18a772da687d40827ede2"
+        "revision" : "c041acbcc0b2e066eddc48a59c1f960fd08974bd"
       }
     },
     {
