@@ -39,10 +39,10 @@
     {
       "identity" : "solita-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/metaplex-foundation/solita-swift.git",
+      "location" : "https://github.com/VaultLaboratories/solita-swift.git",
       "state" : {
-        "branch" : "1.0.3",
-        "revision" : "4a10fced01084777db9c86547d66acd983799a90"
+        "branch" : "main",
+        "revision" : "05429e918ea4a71346c18a772da687d40827ede2"
       }
     },
     {
